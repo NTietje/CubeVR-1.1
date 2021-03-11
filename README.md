@@ -1,1 +1,2 @@
-# VsCubeGame1.2
+# CubeVR Game
+Überarbeitete Version, nach der Präsentation beim HAW Rundgang.
