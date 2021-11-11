@@ -1,5 +1,6 @@
 # CubeVR Game
-Überarbeitete Version, nach der Präsentation beim HAW Rundgang.
+VR logic game
+Revised version, after the presentation at the HAW Rundgang.
 
 **Unity | HTC VIVE | VRTK**
 
