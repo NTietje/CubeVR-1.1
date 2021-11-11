@@ -1,6 +1,8 @@
 # CubeVR Game
 Überarbeitete Version, nach der Präsentation beim HAW Rundgang.
 
+**Unity | HTC VIVE | VRTK**
+
 ![img1](images/img.png)
 
 
